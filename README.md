@@ -8,8 +8,8 @@ test:
 Visiting About Firefox will automatically update your browser to the most recent version.
 
 To configure Firefox to work with a proxy, visit
-    Preferences > Advanced > Network > Settings
-    put the proxy id
+    1. Preferences > Advanced > Network > Settings
+    2. put the proxy id
     
 It will be very exciting to see your proxy working through a real Web browser. Although the functionality of your proxy will be limited, you will notice that you are able to browse the vast majority of websites through your proxy.
 
