@@ -7,7 +7,8 @@ test:
 
 Visiting About Firefox will automatically update your browser to the most recent version.
 
-To configure Firefox to work with a proxy, visit
+To configure Firefox to work with a proxy, visit:
+
     1. Preferences > Advanced > Network > Settings
     2. put the proxy id
     
